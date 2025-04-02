@@ -1,8 +1,8 @@
 {
-  "name": "pacote-desenvolvedor-salesforce",
-  "displayName": "Pacote Desenvolvedor Salesforce",
+  "name": "pacote-desenvolvedor-salesforce-dreamxp",
+  "displayName": "Pacote Desenvolvedor DreamXp",
   "description": "Pacote de extensões para desenvolvedores Salesforce.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.98.0"
   },

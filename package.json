@@ -1,0 +1,49 @@
+{
+  "name": "pacote-desenvolvedor-salesforce",
+  "displayName": "Pacote Desenvolvedor Salesforce",
+  "description": "Pacote de extensões para desenvolvedores Salesforce.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName",
+    "salesforce.salesforcedx-vscode-expanded",
+    "modicatech.apex-code-coverage-visualizer",
+    "vishalskywalker.apex-helper",
+    "chuckjonas.apex-pmd",
+    "vscjava.vscode-java-pack",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "visualstudioexptteam.vscodeintellicode",
+    "esbenp.prettier-vscode",
+    "salesforce.salesforcedx-vscode",
+    "vignaeshrama.sfdx-package-xml-generator",
+    "redhat.vscode-xml",
+    "hugoom.sfdx-autoheader",
+    "chuckjonas.salesforce-diff",
+    "drossi750.vscode-salesforce-toolkit",
+    "rohangore.schema-explorer",
+    "oderwat.indent-rainbow",
+    "toddhalfpenny.sfflowvisualiser"
+  ],
+  "publisher": "Carlos Santos",
+  "icon": "dreamxp_logo.jpg",
+  "galleryBanner": {
+    "color": "#6402ed",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Salesforce",
+    "Apex",
+    "Visualforce",
+    "Lightning",
+    "LWC",
+    "SFDX",
+    "VSCode",
+    "Extension Pack"
+  ]
+}

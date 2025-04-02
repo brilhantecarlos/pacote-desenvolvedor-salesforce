@@ -45,5 +45,8 @@
     "SFDX",
     "VSCode",
     "Extension Pack"
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/brilhantecarlos/pacote-desenvolvedor-salesforce"
+  }
 }
